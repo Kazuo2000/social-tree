@@ -7,8 +7,8 @@
 O projeto foi desenvolvido coam as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e GitHub
+- Figma
 
 ## Projeto
 O social-tree é um projeto para facilitar o acesso de links tudo em uma página  
